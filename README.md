@@ -10,10 +10,10 @@
 - Xoay hình ảnh về đúng vị trí.
 - Nhận dạng các cạnh với phương pháp tích chập filter2D kết hợp với phương pháp nhận dạng đường thẳng Probabilistic Hough Line Transform.
 
-3. Nhận diện mã vạch
+3. Nhận diện mã vạch: 
 Về cơ bản cũng thực hiện phương pháp xử lý giống với bước Xoay ảnh về đúng vị trí nhưng kết hợp thêm với Morphological Shape.
 
-4. Đối với camera
+4. Đối với camera: 
 Sử dụng bộ lọc Sobel cả hai chiều ngang và dọc với Scharr kernel và kết hợp với Morphological Shape. 
 
 Tài liệu tham khảo: <br/>
