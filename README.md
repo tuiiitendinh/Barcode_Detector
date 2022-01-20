@@ -17,6 +17,7 @@ Về cơ bản cũng thực hiện phương pháp xử lý giống với bước
 Sử dụng bộ lọc Sobel cả hai chiều ngang và dọc với Scharr kernel và kết hợp với Morphological Shape. 
 
 5. Tài liệu tham khảo:
+
 [1] Image Gradients with OpenCV (Sobel and Scharr) – PyImageSearch: https://www.pyimagesearch.com/2021/05/12/image-gradients-with-opencv-sobel-and-scharr/
 [2] Convolutions with OpenCV and Python – PyImageSearch: https://www.pyimagesearch.com/2016/07/25/convolutions-with-opencv-and-python/
 [3] OpenCV Morphological Operations – PyImageSearch: https://www.pyimagesearch.com/2021/04/28/opencv-morphological-operations/
